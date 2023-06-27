@@ -1,0 +1,5 @@
+lucene-analuzers-common-8.11.2.jar
+lucene-core-9.5.0.jar
+lucene-queryparser-9.5.0.jar
+
+# Descargar del repositorio oficial
